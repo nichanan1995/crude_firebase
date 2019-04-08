@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "214437906653",
+    "firebase_url": "https://scan-app-fast.firebaseio.com",
+    "project_id": "scan-app-fast",
+    "storage_bucket": "scan-app-fast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214437906653:android:07fe919bd1babe5d",
+        "android_client_info": {
+          "package_name": "com.example.counter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0SxrQ16iPvOJhLpX1vb81Q4pHs08ccc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214437906653-0tja573nkoplcbk22u82uuo6c849jg32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214437906653:android:072b48f3c7cbda3e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214437906653-3ddhke6u6pb53oq9tnfpcrui0dl62244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "ce26d5e6d8902f42a36726d20706a7b38a75692d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0SxrQ16iPvOJhLpX1vb81Q4pHs08ccc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214437906653-0tja573nkoplcbk22u82uuo6c849jg32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214437906653:android:f44770f1c30133af",
+        "android_client_info": {
+          "package_name": "com.example.flutter_counter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0SxrQ16iPvOJhLpX1vb81Q4pHs08ccc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214437906653-0tja573nkoplcbk22u82uuo6c849jg32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
